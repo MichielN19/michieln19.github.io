@@ -47,7 +47,7 @@ body {
 
 .circle-under-logo > img {
     width: 200px;
-    height: fit-content;
+    height: auto;
 }
 
 .circle-under-logo {
